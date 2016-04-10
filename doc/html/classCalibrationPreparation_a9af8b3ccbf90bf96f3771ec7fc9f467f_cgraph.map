@@ -1,0 +1,22 @@
+<map id="CalibrationPreparation::setupLayout" name="CalibrationPreparation::setupLayout">
+<area shape="rect" id="node2" href="$classCalibrationPreparation.html#af8340d45c1bbf307363c8abda80352c2" title="CalibrationPreparation\l::setPatternDimensionLayout" alt="" coords="204,5,395,47"/>
+<area shape="rect" id="node3" href="$classCalibrationPreparation.html#ab9fbc9f99a8f04f4ce33ad5ee8bd2f35" title="CalibrationPreparation\l::setPatternSizeLayout" alt="" coords="222,71,377,112"/>
+<area shape="rect" id="node4" href="$classCalibrationPreparation.html#a0e714e82706f0d6f3aec2c2e5b851b0a" title="CalibrationPreparation\l::addHLineToLayout" alt="" coords="224,136,375,177"/>
+<area shape="rect" id="node5" href="$classCalibrationPreparation.html#a37bb61633d2ea80e92e0616196440ea3" title="CalibrationPreparation\l::setSourceLayout" alt="" coords="224,201,375,243"/>
+<area shape="rect" id="node7" href="$classCalibrationPreparation.html#afe61b572d9fc07147663c58e94c338bc" title="CalibrationPreparation\l::setUserLogLayout" alt="" coords="224,267,375,308"/>
+<area shape="rect" id="node8" href="$classCalibrationPreparation.html#a6f0a68d9e63abf1655ce7a05b074be25" title="CalibrationPreparation\l::connectSlots" alt="" coords="224,364,375,405"/>
+<area shape="rect" id="node6" href="$classCalibrationPreparation.html#a09551c4b3cd30288b94177c902ba946d" title="CalibrationPreparation\l::addVLineToLayout" alt="" coords="462,168,613,209"/>
+<area shape="rect" id="node9" href="$classCalibrationPreparation.html#a7e5e9c65ded0ed0b820cf4f1575c74dd" title="CalibrationPreparation\l::setLeftSourceSlot" alt="" coords="462,233,613,275"/>
+<area shape="rect" id="node10" href="$classCalibrationPreparation.html#a8fa4fdf943a7a2abe594508069fa689b" title="CalibrationPreparation\l::setRightSourceSlot" alt="" coords="462,299,613,340"/>
+<area shape="rect" id="node11" href="$classCalibrationPreparation.html#a1ba10826b0f7d8b23a0b6dfce145e39e" title="CalibrationPreparation\l::setNumberOfSquaresHSlot" alt="" coords="443,364,632,405"/>
+<area shape="rect" id="node12" href="$classCalibrationPreparation.html#ade412534784e7a199636792e224aa003" title="CalibrationPreparation\l::setNumberOfSquaresVSlot" alt="" coords="443,429,631,471"/>
+<area shape="rect" id="node13" href="$classCalibrationPreparation.html#acc423f2e39dd53f3ee0ec259d4a674f9" title="CalibrationPreparation\l::setSizeOfSquaresSlot" alt="" coords="458,495,617,536"/>
+<area shape="rect" id="node14" href="$classCalibrationPreparation.html#aaa3e7a8afd9f1e58aafd5061c9083595" title="CalibrationPreparation\l::runCalibrationSlot" alt="" coords="462,560,613,601"/>
+<area shape="rect" id="node15" href="$classCalibrationPreparation.html#a596e834ebeb7ed8835a755b92c63fdad" title="CalibrationPreparation\l::sourceIsUsable" alt="" coords="689,429,839,471"/>
+<area shape="rect" id="node16" href="$classCalibrationHandler.html#a8d37cb5ba55dfbd64ce19cdbcd4744be" title="CalibrationHandler\l::handleStereoCalibration" alt="" coords="680,495,848,536"/>
+<area shape="rect" id="node19" href="$classCalibrationHandler.html#a9028fa00eb78eb0cf96c5ba154767a8e" title="CalibrationHandler\l::getLeftCam" alt="" coords="699,560,829,601"/>
+<area shape="rect" id="node20" href="$classCalibrationHandler.html#ad0cec665ebd7723b561d07612e7156a9" title="CalibrationHandler\l::getRightCam" alt="" coords="699,625,829,667"/>
+<area shape="rect" id="node21" href="$classCalibrationHandler.html#ab8eed7498714c44cfcb3dc53561e2197" title="CalibrationHandler\l::getStereoCam" alt="" coords="699,691,829,732"/>
+<area shape="rect" id="node17" href="$classCalibrationHandler.html#a50eceb0b317b86ad2af38f2c98e4afcf" title="CalibrationHandler\l::handleCameraCalibration" alt="" coords="896,465,1072,507"/>
+<area shape="rect" id="node18" href="$classCalibrationHandler.html#a8b5353c5f2ecfcbbfc24012e713e0209" title="CalibrationHandler\l::replaceLastLineOfUserLog" alt="" coords="1120,495,1304,536"/>
+</map>

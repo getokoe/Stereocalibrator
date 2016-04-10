@@ -1,0 +1,8 @@
+<map id="StereoCalibrationEvaluation::StereoCalibrationEvaluation" name="StereoCalibrationEvaluation::StereoCalibrationEvaluation">
+<area shape="rect" id="node2" href="$classStereoCalibrationEvaluation.html#a5e29d1a5800b7fc18069d96b1f71e9ea" title="StereoCalibrationEvaluation\l::setupLayout" alt="" coords="244,39,427,80"/>
+<area shape="rect" id="node3" href="$classStereoCalibrationEvaluation.html#afeed22863e554bac23ce04179189d0dc" title="StereoCalibrationEvaluation\l::setImagePreviewLayout" alt="" coords="475,5,657,47"/>
+<area shape="rect" id="node6" href="$classStereoCalibrationEvaluation.html#a7175836482e70a1cb61b4445db63c1e3" title="StereoCalibrationEvaluation\l::setDataPreviewLayout" alt="" coords="475,71,657,112"/>
+<area shape="rect" id="node4" href="$classStereoCalibrationEvaluation.html#a5a3f1b313df423f4ff8cce3b07f5b4eb" title="StereoCalibrationEvaluation\l::loadImagesIntoPreview" alt="" coords="709,5,891,47"/>
+<area shape="rect" id="node5" href="$classStereoCalibrationEvaluation.html#afa9aa71a6a2e2522bf901b7ef2f6db39" title="StereoCalibrationEvaluation\l::openMaxPicWindow" alt="" coords="943,5,1125,47"/>
+<area shape="rect" id="node7" href="$classStereoCalibrationEvaluation.html#a13790199df55fb32b07da9ea71a60dcc" title="StereoCalibrationEvaluation\l::loadDataIntoResultPreview" alt="" coords="705,71,895,112"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="MainWindow::setupLayout" name="MainWindow::setupLayout">
+<area shape="rect" id="node2" href="$classMainWindow.html#a34c4b4207b46d11a4100c9b19f0e81bb" title="MainWindow::MainWindow" alt="" coords="767,5,947,32"/>
+<area shape="rect" id="node3" href="$classMainWindow.html#af5ddf40082fa9067f962d3722ac7bc63" title="MainWindow::openStereoCalibrationSlot" alt="" coords="229,31,485,57"/>
+<area shape="rect" id="node4" href="$classMainWindow.html#a62cd8712fb41a754298f6f60eead2cb0" title="MainWindow::createActions" alt="" coords="533,31,719,57"/>
+</map>

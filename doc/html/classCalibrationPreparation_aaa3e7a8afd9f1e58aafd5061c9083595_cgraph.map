@@ -1,0 +1,9 @@
+<map id="CalibrationPreparation::runCalibrationSlot" name="CalibrationPreparation::runCalibrationSlot">
+<area shape="rect" id="node2" href="$classCalibrationPreparation.html#a596e834ebeb7ed8835a755b92c63fdad" title="CalibrationPreparation\l::sourceIsUsable" alt="" coords="213,5,363,47"/>
+<area shape="rect" id="node3" href="$classCalibrationHandler.html#a8d37cb5ba55dfbd64ce19cdbcd4744be" title="CalibrationHandler\l::handleStereoCalibration" alt="" coords="204,71,372,112"/>
+<area shape="rect" id="node6" href="$classCalibrationHandler.html#a9028fa00eb78eb0cf96c5ba154767a8e" title="CalibrationHandler\l::getLeftCam" alt="" coords="223,136,353,177"/>
+<area shape="rect" id="node7" href="$classCalibrationHandler.html#ad0cec665ebd7723b561d07612e7156a9" title="CalibrationHandler\l::getRightCam" alt="" coords="223,201,353,243"/>
+<area shape="rect" id="node8" href="$classCalibrationHandler.html#ab8eed7498714c44cfcb3dc53561e2197" title="CalibrationHandler\l::getStereoCam" alt="" coords="223,267,353,308"/>
+<area shape="rect" id="node4" href="$classCalibrationHandler.html#a50eceb0b317b86ad2af38f2c98e4afcf" title="CalibrationHandler\l::handleCameraCalibration" alt="" coords="420,41,596,83"/>
+<area shape="rect" id="node5" href="$classCalibrationHandler.html#a8b5353c5f2ecfcbbfc24012e713e0209" title="CalibrationHandler\l::replaceLastLineOfUserLog" alt="" coords="644,71,828,112"/>
+</map>

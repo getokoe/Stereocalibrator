@@ -1,0 +1,8 @@
+<map id="MainWindow::MainWindow" name="MainWindow::MainWindow">
+<area shape="rect" id="node2" href="$classMainWindow.html#aebb308d8af9b0dff388ca00394a1a945" title="MainWindow::setupLayout" alt="" coords="783,14,959,41"/>
+<area shape="rect" id="node3" href="$classMainWindow.html#a62cd8712fb41a754298f6f60eead2cb0" title="MainWindow::createActions" alt="" coords="239,40,425,66"/>
+<area shape="rect" id="node6" href="$classMainWindow.html#a03799692902ab88a551b4dca1fa042db" title="MainWindow::createMenu" alt="" coords="245,90,419,117"/>
+<area shape="rect" id="node7" href="$classMainWindow.html#aa3e0b36139ced11f586c13e98ba228d6" title="MainWindow::createStatusbar" alt="" coords="233,141,431,168"/>
+<area shape="rect" id="node4" href="$classMainWindow.html#af5ddf40082fa9067f962d3722ac7bc63" title="MainWindow::openStereoCalibrationSlot" alt="" coords="479,40,735,66"/>
+<area shape="rect" id="node5" href="$classMainWindow.html#aaf5c27dd28035e5666865ed43514269b" title="MainWindow::openAboutSlot" alt="" coords="511,90,702,117"/>
+</map>

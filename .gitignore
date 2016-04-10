@@ -1,0 +1,6 @@
+# Qtcreator
+*.user
+*.autosave
+
+# Doxygen
+*.db
